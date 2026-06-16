@@ -45,4 +45,4 @@
 
 ## Streamlit-приложение
 
-Ссылка на приложение:
+Ссылка на приложение: https://online-store-analytics-fwtcx8jahhcopt8hd7ykbh.streamlit.app/
